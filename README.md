@@ -22,8 +22,8 @@ Print the variable 'X'
 ```
 /*
 Program to find the L and U matrix.
-Developed by: Rahul M R
-RegisterNumber: 2305003005
+Developed by: Yazhini E
+RegisterNumber: 2305002028
 */
 import numpy as np
 from scipy.linalg import lu
@@ -36,8 +36,8 @@ print(U)
 ```
 /*
 Program to find the LU Decomposition of a matrix.
-Developed by: Rahul M R
-RegisterNumber: 2305003005
+Developed by: Yazhini E
+RegisterNumber: 2305002028
 */
 import numpy as np
 from scipy.linalg import lu_factor,lu_solve
