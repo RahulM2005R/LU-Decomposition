@@ -49,7 +49,7 @@ print(x)
 ```
 
 ## Output:
-![image](https://github.com/RahulM2005R/LU-Decomposition/assets/166299886/0caaccfa-e801-4640-ba5e-238151e5a588)
+![image](https://github.com/RahulM2005R/LU-Decomposition/assets/166299886/ef83ec25-b6f6-4ddd-aaf5-13cd509dfd6d)
 
 
 
